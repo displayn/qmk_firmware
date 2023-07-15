@@ -1,6 +1,6 @@
 # landm
 
-![landm]([landm.jpg](https://displayname.s3.amazonaws.com/landm.jpg))
+![landm](https://displayname.s3.amazonaws.com/landm.jpg)
 
 3 button macro custom mechanical keyboard Arduino Micro (atmega32u4) powered
 
